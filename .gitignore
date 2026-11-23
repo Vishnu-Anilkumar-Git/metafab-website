@@ -1,0 +1,10 @@
+# Local preview server log
+.preview.log
+
+# Freebuff workspace metadata
+.freebuff/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
